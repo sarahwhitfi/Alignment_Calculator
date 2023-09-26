@@ -1,0 +1,6 @@
+Alignment? (1 for yes, 0 for no) 
+1 
+Strings:
+AGTGTCT ATTACG
+Scoring: (match, mismatch, indel)
+1 4 6

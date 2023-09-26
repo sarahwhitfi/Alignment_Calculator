@@ -1,0 +1,16 @@
+Alignment? (1 for yes, 0 for no)
+0
+Number of nodes: 
+8
+Source node:
+5
+Edges (start, end, weight):
+1 0 2
+2 1 7
+2 4 7
+2 6 4
+4 6 5
+4 7 7
+5 6 7
+6 2 5
+6 7 1
